@@ -89,6 +89,7 @@ paths:
                 - available
                 - pending
                 - sold
+                - free
               default: available
       responses:
         '200':
